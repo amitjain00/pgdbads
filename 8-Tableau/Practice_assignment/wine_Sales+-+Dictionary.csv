@@ -1,0 +1,21 @@
+Row ID,Serial number of transaction
+Discount %,Discounts offered in %
+Unit Price,Price per unit
+Freight expense,Freight Expense
+Name,Name of customer
+Freight Mode,Freight mode used to ship goods
+Segment,Type of Wine
+Sub Segment,Segment broken into subsegments
+Region,"Region (east,west,north,south) the customer belongs to"
+Priority,Order priority type
+Revenue Target,Target set for Revenue
+Quantity Target,Target set for Quantity of products
+Name of Item,Individual item name
+Packaging Type,Packaging type
+City,Customer's city of origin
+Date of placing order,Date of placing order
+Date of Dispatch,Date of dispatching the order
+Order quantity,Actual quantity ordered
+Order ID,Order id (System generated)
+Country,Customer's country 
+State or Province,Customer's state 
